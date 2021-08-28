@@ -1,3 +1,3 @@
 # studyhomework
 my first repositories for study 
-new symbol
+new symbolll
